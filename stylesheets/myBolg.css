@@ -1,0 +1,53 @@
+body{
+	color: #7e8184;
+	font-family:'微软雅黑',Arial,'Times New Roman';
+	font-size: 13px;
+	background-color: #575265;
+	
+}
+a{
+	text-decoration:none;
+	color:  #158686;
+}
+h3{
+	margin: 15px 0 0 0 ;
+}
+.left{
+	color: #158686;
+	/*position: fixed;*/
+	float: left;
+	height: 100%;
+	width:25%;
+	background-color: #eee;
+	padding: 10px;
+}
+.logo>img{
+	height: 120px;
+	width: 120px;
+	border-radius:160px;
+}
+.main{
+	position: static;
+	width: 1000px;
+	height: 650px;
+	margin: 0 auto;
+	
+}
+.content{
+	float: left;
+	padding: 10px;
+	background-color: #fff;
+	width: 65%;
+	height:100%;
+}
+.logo{
+	text-align: center;
+}
+
+.education li{
+	padding: 15px 0 0 0;
+}
+.title{
+	color: #158686;
+}
+
